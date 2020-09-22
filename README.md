@@ -2,7 +2,7 @@
 
 #### I'm a front-end developer, designer, cat dad 🐱 , & bike enthusiast 🚴
 - 🎉 I'm passionate about serverless development, JAMstack, and cloud computing
-- ✏️ currently learning Svelte.js, Vue.js, and modern WP development
+- ✏️ currently learning Svelte.js, React.js, and modern WP development
 - ⚡ 2020 Goals: contribute to more Open Source projects
 
 #### Connect with me on:
