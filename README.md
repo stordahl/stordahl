@@ -2,7 +2,7 @@
 
 #### I'm a front-end developer, designer, cat dad 🐱 , & bike enthusiast 🚴
 - 🎉 I'm passionate about serverless development, JAMstack, and cloud computing
-- ✏️ currently learning React.js, Gatsby.js and modern WP development
+- ✏️ currently learning React.js, TypeScript, & golang
 - ⚡ 2021 Goals: continue to work on [Steel](https://github.com/stordahl/steel) & contribute to more Open Source projects
 
 #### Connect with me on:
