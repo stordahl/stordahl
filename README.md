@@ -1,6 +1,6 @@
 ### Hey, I'm Jake - check out my personal site [here](https://stordahl.dev)  
 
-#### I'm a front-end developer, designer, cat dad 🐱 , & bike enthusiast 🚴
+#### I'm a full stack developer, designer, cat dad 🐱 , & bike enthusiast 🚴
 - 🎉 I'm passionate about serverless development, JAMstack, and cloud computing
 - ✏️ currently learning React.js, TypeScript, & golang
 - ⚡ 2021 Goals: continue to [Jot](https://jot.works)
