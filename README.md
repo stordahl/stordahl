@@ -1,7 +1,7 @@
 ### Hey, I'm Jake - check out my personal site [here](https://stordahl.dev)  
 
 #### I'm a full stack developer, designer, cat dad 🐱 , & bike enthusiast 🚴
-- 🎉 I'm passionate about serverless development, JAMstack, and cloud computing
+- 🎉 I'm passionate about Svelte.js, serverless development, JAMstack, and cloud computing
 - ✏️ currently learning React.js, TypeScript, & golang
 - ⚡ 2021 Goals: continue to [Jot](https://jot.works)
 #### Connect with me on:
