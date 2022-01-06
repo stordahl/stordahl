@@ -3,7 +3,7 @@
 #### I'm a full stack developer, designer, cat dad 🐱 , & bike enthusiast 🚴
 - 🎉 I'm passionate about Svelte.js, serverless development, JAMstack, and cloud computing
 - ✏️ currently learning React.js, TypeScript, & golang
-- ⚡ 2021 Goals: continue to [Jot](https://jot.works)
+- ⚡ 2022 Goals: continue to [Jot](https://jot.works)
 #### Connect with me on:
 
 [<img align="left" alt="stordahl_ | Twitter" width="22px" style="margin-right:1rem;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
