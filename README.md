@@ -1,9 +1,9 @@
 ### Hey, I'm Jake - check out my personal site [here](https://stordahl.dev)  
 
 #### I'm a full stack developer, designer, cat dad 🐱 , & bike enthusiast 🚴
-- 🎉 I'm passionate about Svelte.js, serverless development, JAMstack, and cloud computing
-- ✏️ currently learning React.js, TypeScript, & golang
-- ⚡ 2022 Goals: continue to [Jot](https://jot.works)
+- 🎉 I'm passionate about Svelte.js, serverless development, JAMstack, and design systems
+- ✏️ currently learning TypeScript & golang
+- ⚡ 2022 Goals: build [svelte-strip](https://github.com/stordahl/svelte-strip) & [systemize](https://github.com/stordahl/systemize)
 #### Connect with me on:
 
 [<img align="left" alt="stordahl_ | Twitter" width="22px" style="margin-right:1rem;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
