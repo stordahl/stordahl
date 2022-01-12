@@ -3,7 +3,7 @@
 #### I'm a full stack developer, designer, cat dad 🐱 , & bike enthusiast 🚴
 - 🎉 I'm passionate about Svelte.js, serverless development, JAMstack, and design systems
 - ✏️ currently learning TypeScript & golang
-- ⚡ 2022 Goals: build [svelte-strip](https://github.com/stordahl/svelte-strip) & [systemize](https://github.com/stordahl/systemize)
+- ⚡ Currently building [svelte-strip](https://github.com/stordahl/svelte-strip) & [systemize](https://github.com/stordahl/systemize)
 #### Connect with me on:
 
 [<img align="left" alt="stordahl_ | Twitter" width="22px" style="margin-right:1rem;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
