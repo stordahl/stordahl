@@ -1,6 +1,6 @@
 Hi, I'm Jacob 👋
 
-I'm a Software Engineer, obsessed with building tools and infrastructure that enable front-end teams to be productive. Currently, I'm building radical e-commerce user experiences at [Stylitics](http://stylitics.com).
+I'm a Software Engineer, obsessed with building tools and infrastructure that enable front-end teams to be productive. Currently, I'm building radical e-commerce user experiences, and developer tooling at [Stylitics](http://stylitics.com), mostly in Javascript, TypeScript, Svelte, and Bash.
 
 Here's a list of some stuff I've built or contributed to that I'm proud of.
 
