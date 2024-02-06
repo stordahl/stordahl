@@ -1,6 +1,6 @@
 Hi, I'm Jacob 👋
 
-I'm a Software Engineer, obsessed with building tools and infrastructure that enable front-end teams to be productive. Currently, I'm building radical e-commerce user experiences, and developer tooling at [Stylitics](http://stylitics.com), mostly in Javascript, TypeScript, Svelte, and Bash.
+I'm a Full-Stack Software Engineer & Web Developer passionate about building UI's and enabling product teams through design & developer tools. Currently, I'm a Product Engineer at Stylitics where I contribute to product infrastructure that supports our front-end product suite.
 
 Here's a list of some stuff I've built or contributed to that I'm proud of.
 
@@ -12,4 +12,4 @@ Here's a list of some stuff I've built or contributed to that I'm proud of.
 - [svelte-code-input - a simple text input that behaves like a code editor](https://github.com/stordahl/svelte-code-input)
 
 
-~I'm currently available for hire.~
+I'm currently not available for hire.
