@@ -4,6 +4,7 @@ I'm a Full-Stack Software Engineer & Web Developer passionate about building UI'
 
 Here's a list of some stuff I've built or contributed to that I'm proud of.
 
+- [standup - brain dumping on the command line](https://github.com/stordahl/standup)
 - [svelte-right-click - a custom context menu for your Svelte app](https://github.com/stordahl/svelte-right-click)
 - [datahog - collect historical lighthouse data for you products](https://github.com/stordahl/datahog)
 - [sveltekit-snippets - VSCode snippets for SvelteKit and Svelte](https://github.com/stordahl/sveltekit-snippets)
