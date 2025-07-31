@@ -4,6 +4,7 @@ I'm a Full-Stack Software Engineer & Web Developer passionate about building UI'
 
 Here's a list of some stuff I've built or contributed to that I'm proud of.
 
+- [counterscale - scalable web analytics you run yourself on Cloudflare](https://github.com/benvinegar/counterscale) (maintainer)
 - [moleskin - your personal web journal](https://github.com/stordahl/moleskin)
 - [standup - brain dumping on the command line](https://github.com/stordahl/standup)
 - [svelte-right-click - a custom context menu for your Svelte app](https://github.com/stordahl/svelte-right-click)
