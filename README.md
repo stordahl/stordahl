@@ -1,6 +1,6 @@
 Hi, I'm Jacob 👋
 
-I'm a Full-Stack Software Engineer & Web Developer passionate about building UI's and enabling product teams through design & developer tools. Currently, I'm a Product Engineer at Stylitics where I contribute to our end user products, as well as product infrastructure.
+I'm a Full-Stack Software Engineer & Web Developer passionate about building UI's and enabling product teams through design & developer tools. Currently, I'm a Product Engineer at Stylitics where I contribute to our end user products, as well as product infrastructure. I'm also a part-time maintainer of CounterScale, the web analytics service you run yourself on Cloudflare.
 
 Here's a list of some stuff I've built or contributed to that I'm proud of.
 
