@@ -15,4 +15,4 @@ Here's a list of some stuff I've built or contributed to that I'm proud of.
 - [svelte-code-input - a simple text input that behaves like a code editor](https://github.com/stordahl/svelte-code-input)
 
 
-I'm currently available for contract/part time work.
+I'm currently unavailable for contract/part time work.
