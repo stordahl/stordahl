@@ -5,6 +5,7 @@ I'm a Software Engineer, Web Developer, and recovering musician. I’ve been bui
 Here's a list of some stuff I've built or contributed to that I'm proud of.
 
 - [counterscale - scalable web analytics you run yourself on Cloudflare](https://github.com/benvinegar/counterscale) (maintainer)
+- [cardd.cc - customizable badges for the web](https://github.com/stordahl/cardd.cc)
 - [moleskin - your personal web journal](https://github.com/stordahl/moleskin)
 - [standup - brain dumping on the command line](https://github.com/stordahl/standup)
 - [svelte-right-click - a custom context menu for your Svelte app](https://github.com/stordahl/svelte-right-click)
